@@ -46,6 +46,7 @@ cd docs-editor
 
 2️⃣ Set up Firebase (for Auth)
 Create a Firebase project at https://console.firebase.google.com
+In firebase.js file please use your own information 
 
 Enable Email/Password or Google sign-in
 
