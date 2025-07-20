@@ -30,7 +30,7 @@ A powerful Google Docs–like collaborative editor built with **React**, **Quill
 ## 📂 Folder Structure
 <img width="431" height="383" alt="image" src="https://github.com/user-attachments/assets/27d90ea4-d480-48cd-aeda-db0723890c8e" />
 
-### Put the logo1 in the docs-editor/client/public
+### Put the index.html and logo1 in the docs-editor/client/public
 
 ---
 ## 📸 Editor Interface Screenshot
