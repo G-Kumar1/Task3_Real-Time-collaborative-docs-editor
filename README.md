@@ -28,24 +28,14 @@ A powerful Google Docs–like collaborative editor built with **React**, **Quill
 ---
 
 ## 📂 Folder Structure
-docs-editor/
-├── client/ # React frontend
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── Editor.js
-│ │ ├── CustomToolbar.jsx
-│ │ ├── AuthProvider.jsx
-│ │ ├── firebase.js
-│ │ └── ...
-│ └── ...
-├── server/ # Node.js backend
-│ ├── index.js
-│ ├── Document.js
-│ └── ...
-└── README.md
+<img width="431" height="383" alt="image" src="https://github.com/user-attachments/assets/27d90ea4-d480-48cd-aeda-db0723890c8e" />
+
 ### Put the logo1 in the docs-editor/client/public
 
 ---
+## 📸 Editor Interface Screenshot
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/2d1a048c-bc05-4bb1-b7d3-a5db52e3776a" />
+
 
 ## 🛠️ Installation and Setup
 
@@ -83,5 +73,7 @@ node index.js
 Start client:
 cd client
 npm start
+
+
 
 
